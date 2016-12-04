@@ -72,6 +72,13 @@
       <Private>True</Private>
     </Reference>
   </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\FSharp.Collections.Linked\FSharp.Collections.Linked.fsproj">
+      <Name>FSharp.Collections.Linked</Name>
+      <Project>{41346de6-417c-43fa-9342-763c813127bd}</Project>
+      <Private>True</Private>
+    </ProjectReference>
+  </ItemGroup>
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
        Other similar extension points exist, see Microsoft.Common.targets.
   <Target Name="BeforeBuild">
