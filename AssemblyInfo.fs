@@ -1,4 +1,4 @@
-﻿namespace FSharp.Collections.Linked.Test.AssemblyInfo
+﻿namespace test.AssemblyInfo
 
 open System.Reflection
 open System.Runtime.CompilerServices
@@ -7,12 +7,12 @@ open System.Runtime.InteropServices
 // 有关程序集的一般信息由以下
 // 控制。更改这些特性值可修改
 // 与程序集关联的信息。
-[<assembly: AssemblyTitle("FSharp.Collections.Linked.Test")>]
+[<assembly: AssemblyTitle("test")>]
 [<assembly: AssemblyDescription("")>]
 [<assembly: AssemblyConfiguration("")>]
 [<assembly: AssemblyCompany("")>]
-[<assembly: AssemblyProduct("FSharp.Collections.Linked.Test")>]
-[<assembly: AssemblyCopyright("Copyright ©  2016")>]
+[<assembly: AssemblyProduct("test")>]
+[<assembly: AssemblyCopyright("Copyright ©  2017")>]
 [<assembly: AssemblyTrademark("")>]
 [<assembly: AssemblyCulture("")>]
 
@@ -22,7 +22,7 @@ open System.Runtime.InteropServices
 [<assembly: ComVisible(false)>]
 
 // 如果此项目向 COM 公开，则下列 GUID 用于类型库的 ID
-[<assembly: Guid("b805a750-bd23-4af2-88a3-d0f19b049c9e")>]
+[<assembly: Guid("0b5c910a-cdc0-4231-94c3-cfb05c777898")>]
 
 // 程序集的版本信息由下列四个值组成: 
 // 
